@@ -1,0 +1,31 @@
+img	comment	action
+8	friend V--[** V----?] expressed a desire to try it with	left as -- as usage is mixed throughout book, so matched image
+21	<i>From a letter to Cass, dated Tuesday morning, March 5th:</i>[**: in or out of italics markup?]	silent correction
+57	"Now were[** we're] really getting down to business,"	assumed printer error, apostrophe added
+63	with you is keen joy. Tell <f>Dad</f>[**P3--there is a line drawn through this in the original; not sure how this can be rendered in an ebook] ..."--the	ignored
+63	in</u>[**P3--be in is underlined in original]." Rapidly and strongly, he underlined the	ignored
+66	you <u>would</u>[**P3--underlined in original] like me better.... I didn't say love	ignored
+89	you can take. It <u>is</u>[**P3 is is underlined] a moral universe, Manzie."	ignored
+100	<f>aces</f>[**P3: crossed out?] ... accustomed ..."--later she returned,	ignored
+103	the table, and again my mind[**P2 ,? P3: speck] was filled with	ignored
+129	'Onward Christian soldiers[** '?], is a plea for	assumed printer error, single quote added
+130	justice[**.]	assumed printer error, full stop added.
+134	may be free[**.] For brotherhood commandeth	assumed printer error, full stop added
+152	dropped. "... wants to talk to <f>E</f>[** P: this is a crossed-out E] ... Bess."	ignored
+189	"This is a message to the civilized world....[**unclear if end of sentence or pause - GW checked and corrected]	ignored
+201	<f>free</f> ...  [**crossed through in original text] fantom (O) friend in vain."	ignored
+207	by his death. But[**I ?] did not believe it.	printer error assumed, I added
+221	"No. You make[**P2: typo? made?] only one mistake, so far.	ignored
+226	disintegrating force is "pro-[**spacing?] anything that	ignored
+237	"<sc>Frederick</sc>."[**start of lette rnot marked]	ignored
+247	<sc>Mother</sc>."[**idem]	ignored
+252	else[**grammar: nobody else's], you can help yourself. In the end, you	ignored
+262	'not at home' to anybody but Uncle J--[**spacing?]and	corrected to pgdp guidelines
+262	Bud ..."[**continuoues next page]	ignored
+269	"Mary K. will be <f>ret</f>[** line thru word] ... eternally with you."	ignored
+273	held firmly to her purpose."[**note some words deliberately struck through in this paragraph]	ignored
+274	... M.A. ... Matthew is de ... det...."[**  some words deliberately scored out]	ignored
+274	beaten."[** some word deliberately scored out]	ignored
+277	frankly: "We have stopped you now. M.A.[**spacing, see p278?]"	matched image
+313	good material for no gain[**, smudge? - GW smudge] in force or purpose."	corrected
+321	*--and[** check m dash after removing page separators] is paying--the penalty, or the consequence."	TODO
