@@ -1953,6 +1953,7 @@ $::operationshash{'Fixup Routine'}='2014-02-16 17:45';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-16 14:48';
 $::operationshash{'Check alpha/num'}='2014-02-16 19:59';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-16 14:47';
+$::operationshash{'Spellcheck'}='2014-02-16 20:46';
 $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
 $::operationshash{'WF Check Ital/Bold/SC'}='2014-02-16 20:02';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\seven_purposes.txt'}='2014-02-16 14:43';
@@ -1979,7 +1980,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 
-$::bookmarks[0] = '10045.16';
+$::bookmarks[0] = '9964.44';
 $::bookmarks[1] = '10006.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
