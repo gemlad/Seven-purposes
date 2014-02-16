@@ -1957,13 +1957,14 @@ $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\seven_purposes.txt'}='2014-02-16 14:43';
 $::operationshash{'Found no more orphaned ()'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned /# #/'}='2014-02-16 14:48';
+$::operationshash{'Found no more asterisks without slash'}='2014-02-16 18:35';
 $::operationshash{'Found no more orphaned []'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned {}'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 
-$::bookmarks[0] = '20.0';
+$::bookmarks[0] = '3473.0';
 $::bookmarks[1] = '10006.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
