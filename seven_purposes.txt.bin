@@ -1947,24 +1947,36 @@ $::proofers{'324'}[4] = 'franklloyd';
 $::proofers{'324'}[5] = 'fvandrog';
 
 $::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-02-16 14:48';
+$::operationshash{'Check Character Cnts'}='2014-02-16 19:48';
+$::operationshash{'Check hyphens'}='2014-02-16 19:57';
 $::operationshash{'Found last page separator'}='2014-02-16 18:21';
 $::operationshash{'Begin Page Separators Fixup'}='2014-02-16 18:19';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-02-16 14:48';
 $::operationshash{'Fixup Routine'}='2014-02-16 17:45';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-16 14:48';
+$::operationshash{'Check alpha/num'}='2014-02-16 19:59';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-16 14:47';
+$::operationshash{'Check ALL CAPS'}='2014-02-16 19:59';
 $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
+$::operationshash{'WF Check Ital/Bold/SC'}='2014-02-16 20:02';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\seven_purposes.txt'}='2014-02-16 14:43';
+$::operationshash{'Check emdashes'}='2014-02-16 19:50';
 $::operationshash{'Found no more orphaned ()'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned /# #/'}='2014-02-16 14:48';
 $::operationshash{'Found no more asterisks without slash'}='2014-02-16 18:35';
+$::operationshash{'Check , Upper'}='2014-02-16 20:00';
 $::operationshash{'Found no more orphaned []'}='2014-02-16 14:48';
+$::operationshash{'Word Frequency'}='2014-02-16 19:53';
 $::operationshash{'Found no more orphaned {}'}='2014-02-16 14:48';
+$::operationshash{'Check Accents'}='2014-02-16 20:00';
+$::operationshash{'Check MiXeD CasE'}='2014-02-16 19:59';
+$::operationshash{'Check words with possible ligatures'}='2014-02-16 20:03';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
+$::operationshash{'Check . lower'}='2014-02-16 20:01';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 
-$::bookmarks[0] = '3473.0';
+$::bookmarks[0] = '2445.16';
 $::bookmarks[1] = '10006.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
