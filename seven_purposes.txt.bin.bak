@@ -1979,7 +1979,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 
-$::bookmarks[0] = '679.26';
+$::bookmarks[0] = '10045.16';
 $::bookmarks[1] = '10006.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
