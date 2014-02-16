@@ -17,7 +17,7 @@
  'Pg016' => {'offset' => '320.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg017' => {'offset' => '363.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg018' => {'offset' => '405.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg019' => {'offset' => '441.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg019' => {'offset' => '440.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg020' => {'offset' => '479.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg021' => {'offset' => '514.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg022' => {'offset' => '550.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -78,7 +78,7 @@
  'Pg077' => {'offset' => '2461.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg078' => {'offset' => '2495.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg079' => {'offset' => '2532.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg080' => {'offset' => '2574.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg080' => {'offset' => '2573.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg081' => {'offset' => '2617.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg082' => {'offset' => '2651.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg083' => {'offset' => '2660.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -101,7 +101,7 @@
  'Pg100' => {'offset' => '3217.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg101' => {'offset' => '3249.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg102' => {'offset' => '3281.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg103' => {'offset' => '3316.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg103' => {'offset' => '3315.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg104' => {'offset' => '3348.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg105' => {'offset' => '3354.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg106' => {'offset' => '3369.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -262,7 +262,7 @@
  'Pg261' => {'offset' => '8282.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg262' => {'offset' => '8315.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg263' => {'offset' => '8351.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg264' => {'offset' => '8385.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg264' => {'offset' => '8384.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg265' => {'offset' => '8417.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg266' => {'offset' => '8452.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg267' => {'offset' => '8487.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -312,7 +312,7 @@
  'Pg311' => {'offset' => '9956.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg312' => {'offset' => '9989.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg313' => {'offset' => '10022.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg314' => {'offset' => '10053.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg314' => {'offset' => '10052.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg315' => {'offset' => '10086.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg316' => {'offset' => '10120.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg317' => {'offset' => '10155.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
@@ -1952,14 +1952,16 @@ $::operationshash{'Found no more orphaned ()'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned /# #/'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned []'}='2014-02-16 14:48';
+$::operationshash{'Fixup Routine'}='2014-02-16 17:45';
 $::operationshash{'Found no more orphaned {}'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-16 14:48';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-16 14:47';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
+$::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 14:47';
 $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
 
-$::bookmarks[0] = '10297.43';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '10333.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
