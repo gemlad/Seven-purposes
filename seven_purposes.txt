@@ -3,8 +3,10 @@
 
 
 
+/F
+                          THE SEVEN PURPOSES
+F/
 
-THE SEVEN PURPOSES
 -----File: 002.png---\danmcc\MilochGermany\Wilstanz\alex cook\cmspence\----
 [Blank Page]
 -----File: 003.png---\danmcc\MilochGermany\Wilstanz\Jo-Anne43\cmspence\----
@@ -12,34 +14,34 @@ THE SEVEN PURPOSES
 
 
 
-/*
-<i>The</i>
-SEVEN PURPOSES
+/F
+                              <i>The</i>
+                            SEVEN PURPOSES
 
-<i>An Experience in
-Psychic Phenomena</i>
+                          <i>An Experience in
+                         Psychic Phenomena</i>
 
-BY
-MARGARET CAMERON
+                                  BY
+                           MARGARET CAMERON
 
-[Illustration]
+                            [Illustration]
 
-<i>Harper & Brothers Publishers
-New York and London</i>
-*/
+                    <i>Harper & Brothers Publishers
+                        New York and London</i>
+F/
 
 -----File: 004.png---\danmcc\MilochGermany\Wilstanz\Jo-Anne43\cmspence\----
 
 
 
 
-/*
-<sc>The Seven Purposes</sc>
+/F
+                      <sc>The Seven Purposes</sc>
 
-Copyright, 1918, by Harper & Brothers
-Printed in the United States of America
-Published October, 1918
-*/
+                 Copyright, 1918, by Harper & Brothers
+                Printed in the United States of America
+                        Published October, 1918
+F/
 
 -----File: 005.png---\danmcc\MilochGermany\Wilstanz\Jo-Anne43\cmspence\----
 
@@ -295,7 +297,7 @@ were used freely. The punctuation throughout
 has been added, except in cases noted.
 
 /*
-<i>From a letter dated Monday morning, March 4th</i>:
+                  <i>From a letter dated Monday morning, March 4th</i>:
 */
 
 ... Instead of doing the usual loop sort of
@@ -432,7 +434,7 @@ queer, but I am very sure something outside of
 myself was doing it. I shall try again to-night.
 
 /*
-<i>From a letter dated Monday evening, March 4th</i>:
+                  <i>From a letter dated Monday evening, March 4th</i>:
 */
 
 I have just had another amazing try at
@@ -10390,11 +10392,11 @@ is a warning to unite and prepare for combat.
 "This is the truth. Heed it.
 
 /*
-"<sc>Mary K.</sc>"
+                                                     "<sc>Mary K.</sc>"
 
 <i>June 13, 1918.</i>
 */
 
 /*
-<sc>THE END</sc>
+                           <sc>THE END</sc>
 */

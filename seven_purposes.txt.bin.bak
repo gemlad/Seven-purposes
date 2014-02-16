@@ -1957,10 +1957,11 @@ $::operationshash{'Found no more orphaned {}'}='2014-02-16 14:48';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-16 14:48';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-16 14:47';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
+$::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 14:47';
 $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
 
-$::bookmarks[0] = '10103.15';
+$::bookmarks[0] = '1.0';
 $::bookmarks[1] = '10333.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
