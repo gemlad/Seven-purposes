@@ -86,7 +86,7 @@
  'Pg085' => {'offset' => '1962.41', 'label' => 'Pg 75', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg086' => {'offset' => '1985.4', 'label' => 'Pg 76', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg087' => {'offset' => '2007.31', 'label' => 'Pg 77', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg088' => {'offset' => '2031.19', 'label' => 'Pg 78', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg088' => {'offset' => '2031.27', 'label' => 'Pg 78', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg089' => {'offset' => '2054.30', 'label' => 'Pg 79', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg090' => {'offset' => '2079.36', 'label' => 'Pg 80', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg091' => {'offset' => '2101.18', 'label' => 'Pg 81', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -1973,7 +1973,7 @@ $::operationshash{'Footnote check passed'}='2014-02-17 13:22';
 $::operationshash{'Remove blank lines before page separators'}='2014-02-16 20:51';
 $::operationshash{'Check ALL CAPS'}='2014-02-16 19:59';
 $::operationshash{'Reindex footnotes'}='2014-02-16 20:51';
-$::operationshash{'Gutcheck'}='2014-02-16 20:36';
+$::operationshash{'Gutcheck'}='2014-02-17 13:30';
 $::operationshash{'Check emdashes'}='2014-02-16 19:50';
 $::operationshash{'Found no more orphaned /# #/'}='2014-02-16 14:48';
 $::operationshash{'Check , Upper'}='2014-02-16 20:00';
@@ -1985,7 +1985,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-17 13:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-17 13:18';
 
-$::bookmarks[0] = '5923.54';
+$::bookmarks[0] = '7356.18';
 $::bookmarks[1] = '7287.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
