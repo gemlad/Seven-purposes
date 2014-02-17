@@ -169,7 +169,7 @@
  'Pg168' => {'offset' => '3681.63', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg169' => {'offset' => '3706.53', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg170' => {'offset' => '3728.3', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg171' => {'offset' => '3748.38', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg171' => {'offset' => '3748.39', 'label' => 'Pg 161', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg172' => {'offset' => '3772.41', 'label' => 'Pg 162', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg173' => {'offset' => '3799.40', 'label' => 'Pg 163', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg174' => {'offset' => '3824.29', 'label' => 'Pg 164', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -1946,6 +1946,8 @@ $::proofers{'324'}[3] = 'Yosemite_Don';
 $::proofers{'324'}[4] = 'franklloyd';
 $::proofers{'324'}[5] = 'fvandrog';
 
+$::operationshash{'Check words with unicode chars > FF'}='2014-02-17 13:38';
+$::operationshash{'pptxt'}='2014-02-17 13:40';
 $::operationshash{'Check Stealthos Word Frequency'}='2014-02-16 20:04';
 $::operationshash{'Begin Page Separators Fixup'}='2014-02-16 18:19';
 $::operationshash{'Check hyphens'}='2014-02-16 19:57';
@@ -1962,7 +1964,7 @@ $::operationshash{'Found no more orphaned ()'}='2014-02-16 14:48';
 $::operationshash{'Found no more asterisks without slash'}='2014-02-16 18:35';
 $::operationshash{'Footnote Fixup'}='2014-02-17 13:19';
 $::operationshash{'Found no more orphaned []'}='2014-02-16 14:48';
-$::operationshash{'Word Frequency'}='2014-02-16 19:53';
+$::operationshash{'Word Frequency'}='2014-02-17 13:38';
 $::operationshash{'Check words with possible ligatures'}='2014-02-16 20:03';
 $::operationshash{'Check . lower'}='2014-02-16 20:01';
 $::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-02-16 14:48';
@@ -1985,7 +1987,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-17 13:23';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-17 13:18';
 
-$::bookmarks[0] = '7356.18';
+$::bookmarks[0] = '3748.11';
 $::bookmarks[1] = '7287.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';
