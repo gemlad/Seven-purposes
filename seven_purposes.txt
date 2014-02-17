@@ -14,14 +14,11 @@ The page images for this full-text book can be found at
 https://archive.org/details/sevenpurposesexp00came
 
 
-/F
                           THE SEVEN PURPOSES
-F/
 
 
 
 
-/F
                                  _The_
                             SEVEN PURPOSES
 
@@ -35,18 +32,15 @@ F/
 
                      _Harper & Brothers Publishers
                          New York and London_
-F/
 
 
 
 
-/F
                           THE SEVEN PURPOSES
 
                  Copyright, 1918, by Harper & Brothers
                 Printed in the United States of America
                         Published October, 1918
-F/
 
 
 
@@ -231,9 +225,7 @@ there was little capitalization, but within a few days capitals were
 used freely. The punctuation throughout has been added, except in cases
 noted.
 
-/*
                        _From a letter dated Monday morning, March 4th_:
-*/
 
 ... Instead of doing the usual loop sort of thing, it made straight
 runs across the table. I asked, "Are you ready to write?" "Yes." Then,
@@ -330,9 +322,7 @@ the last I should expect under the circumstances. It was certainly
 queer, but I am very sure something outside of myself was doing it. I
 shall try again to-night.
 
-/*
                        _From a letter dated Monday evening, March 4th_:
-*/
 
 I have just had another amazing try at planchette. This time it was
 Mary Kendal, writing one word at a time. "Let ... Manse[4] ... know
@@ -397,9 +387,7 @@ on the next plane seeking her husband here, and it is significant that,
 of the two, Mary Kendal was the more insistent. As she said, later, "We
 know how much it means."
 
-/*
              _From a letter to Cass, dated Tuesday morning, March 5th:_
-*/
 
 Another evening with Mary! H. dined with me. I told her something about
 planchette, and she wanted to see it work.... This time it wrote, "Mary
@@ -444,9 +432,7 @@ A letter received from him on Tuesday reported a slight relapse, and
 promised a telegram on Wednesday. It had been arranged that I should
 join him if he needed me.
 
-/*
                     _From a letter dated Wednesday evening, March 6th:_
-*/
 
 Your letter and wire both came after four, though the letters usually
 arrive with the first mail in the morning. I was getting a little
@@ -1381,9 +1367,7 @@ quickly and firmly toward the left and upside down to me.
 just as well as ever, and it hurts me to have them think I am not alive
 and loving them, because I know they still love me.
 
-/*
                                                            "FREDERICK."
-*/
 
 Although the movement in this reversed writing is rapid and definite,
 as if great energy were exerted to accomplish it, it is extremely
@@ -1428,9 +1412,7 @@ only at the cost of apparent and visible contact. This is gain, not
 loss. You are questioning that, but trust me. I know. You can't even
 guess what this means to all of us, Sis and Babe and Dad and you and
 
-/*
                                                             FREDERICK."
-*/
 
 His name was dropped a line, like a signature.
 
@@ -2431,9 +2413,7 @@ consciousness of men in general terms of your plane._"
 I
 
 
-/*
                                                            _March 23d._
-*/
 
 "All pure purpose is fearless, whether for good or evil, but few humans
 are pure purpose, and the first fight is in themselves. All this has
@@ -2508,9 +2488,7 @@ progressive brotherhood.
 II
 
 
-/*
                                                           _March 26th._
-*/
 
 "This is the second lesson.
 
@@ -2586,9 +2564,7 @@ justice, and progress--consciously, freely, strongly.
 III
 
 
-/*
                                                           _March 31st._
-*/
 
 "This is the third lesson.
 
@@ -2677,9 +2653,7 @@ themselves. Choose daily and hourly the purpose ye serve.
 IV
 
 
-/*
                                                            _April 1st._
-*/
 
 "This is the fourth lesson.
 
@@ -2739,9 +2713,7 @@ this is the only true Brotherhood.
 V
 
 
-/*
                                                             _April 3d._
-*/
 
 "This is the fifth lesson.
 
@@ -2821,9 +2793,7 @@ builds for eternity.
 VI
 
 
-/*
                                                             _April 3d._
-*/
 
 "This is the sixth lesson.
 
@@ -2899,9 +2869,7 @@ known of all men.
 VII
 
 
-/*
                                                            _April 5th._
-*/
 
 "This is the seventh lesson.
 
@@ -2953,9 +2921,7 @@ be free.
 VIII
 
 
-/*
                                                            _April 8th._
-*/
 
 "This is the eighth lesson.
 
@@ -3002,9 +2968,7 @@ through eternity.
 IX
 
 
-/*
                                                            _April 8th._
-*/
 
 "This is the ninth lesson.
 
@@ -3049,9 +3013,7 @@ their whole force into service.
 X
 
 
-/*
                                                            _April 9th._
-*/
 
 "This is the tenth lesson.
 
@@ -3095,9 +3057,7 @@ men Brotherhood.
 XI
 
 
-/*
                                                           _April 12th._
-*/
 
 "This is the eleventh lesson.
 
@@ -3143,9 +3103,7 @@ toward construction, prolongs the struggle and delays the Great Purpose.
 XII
 
 
-/*
                                                           _April 12th._
-*/
 
 "This is the twelfth lesson.
 
@@ -5349,10 +5307,8 @@ essential parts of your life and hope and happiness, and I shall not
 need to tell you that this is a true gospel. You will have proved it
 for yourself.
 
-/*
                                                 "Your son always,
                                                            "FREDERICK."
-*/
 
 We were all deeply moved. After a little, Mr. Gaylord asked: "Is there
 anything more?"
@@ -5589,10 +5545,8 @@ watch over you, and living in you and yours.
 your father, too--always so full of happiness in the thought and
 knowledge of you and your love.
 
-/*
                                                      Your loving
                                                                MOTHER."
-*/
 
 
 
@@ -7368,14 +7322,10 @@ unite and prepare for combat.
 
 "This is the truth. Heed it.
 
-/*
                                                               "MARY K."
   _June 13, 1918._
-*/
 
-/*
                                 THE END
-*/
 
 
 
@@ -7388,7 +7338,6 @@ retained.
 
 The following alterations have been made:
 
-/*
   Page  Original text                  Correction
 
   47    "Now were really getting down  Apostrophe added to "were" =
@@ -7407,5 +7356,4 @@ The following alterations have been made:
         believe it.                    believe it."
 
 
-*/
 
