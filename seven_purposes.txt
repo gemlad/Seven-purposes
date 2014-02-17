@@ -1,4 +1,16 @@
+Transcriber's note:
 
+
+Text enclosed by underscores is in italics (_italics_).
+
+Text enclosed by equal signs is underlined (=underlined=).
+
+Text enclosed by tildes has a line striking it through (~strikethrough~)
+
+Corrections and alterations from the original can be found at the end of
+the book.
+
+The page images for this full-text book can be found at https://archive.org/details/sevenpurposesexp00came
 
 
 /F
@@ -10073,5 +10085,37 @@ is a warning to unite and prepare for combat.
 
 /*
                            <sc>THE END</sc>
+*/
+
+
+
+Transcriber's note:
+
+
+Errors have been corrected if they were deemed to be printer
+errors, but those deemed to be deliberate spelling variations have
+been retained.
+
+The following alterations have been made:
+
+/*
+   Page  Original text                  Correction
+
+   47    "Now were really getting down  Apostrophe added to "were" =
+         to business,"                  "we're"
+
+   119   'Onward Christian soldiers,    Single quote added to end of
+         is a plea for                  'Onward Christian soldiers,'
+
+   130   free purpose demands justice   Full stop added at end of
+                                        sentence.
+
+   132   may be free For brotherhood    Full stop added at end of sentence
+         commandeth
+
+   197   by his death. But did not      "I" added = "But I did not
+         believe it.                    believe it."
+
+
 */
 

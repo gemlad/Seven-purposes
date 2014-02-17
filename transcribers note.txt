@@ -1,3 +1,40 @@
+Transcriber's note:
+
+
+Text enclosed by underscores is in italics (_italics_).
+
+Text enclosed by equal signs is underlined (=underlined=).
+
+Text enclosed by tildes has a line striking it through (~strikethrough~)
+
+Corrections and alterations from the original can be found at the end of
+the book.
+
+The page images for this full-text book can be found at https://archive.org/details/sevenpurposesexp00came
+
+
+
+
+Transcriber's note:
+
+
+Errors have been corrected if they were deemed to be printer 
+errors, but those deemed to be deliberate spelling variations have 
+been retained.
+
+The following alterations have been made:
+
+  |  Page  |  Original text  |  Correction  |  
+  |  47  |  "Now were really getting down to business,"  |  Apostrophe added to "were" = "we're"  |  
+  |  119  |  'Onward Christian soldiers, is a plea for  |  Single quote added to end of 'Onward Christian soldiers,'  |  
+  |  130  |  free purpose demands justice  |  Full stop added at end of sentence.  |  
+  |  132  |  may be free For brotherhood commandeth  |  Full stop added at end of sentence  |  
+  |  197  |  by his death. But did not believe it.  |  "I" added = "But I did not believe it."  |  
+
+
+
+
+
 img	comment	action
 8	friend V--[** V----?] expressed a desire to try it with	left as -- as usage is mixed throughout book, so matched image
 21	<i>From a letter to Cass, dated Tuesday morning, March 5th:</i>[**: in or out of italics markup?]	silent correction
