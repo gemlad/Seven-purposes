@@ -4,13 +4,13 @@
  'Pg003' => {'offset' => '18.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg004' => {'offset' => '37.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg005' => {'offset' => '48.2', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg006' => {'offset' => '74.51', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg006' => {'offset' => '74.48', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg007' => {'offset' => '75.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg008' => {'offset' => '103.45', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg009' => {'offset' => '134.41', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg010' => {'offset' => '166.41', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg011' => {'offset' => '197.48', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg012' => {'offset' => '211.18', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg012' => {'offset' => '211.15', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg013' => {'offset' => '212.0', 'label' => 'Pg 3', 'style' => '"', 'action' => 'Start @', 'base' => '3'},
  'Pg014' => {'offset' => '244.37', 'label' => 'Pg 4', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg015' => {'offset' => '275.34', 'label' => 'Pg 5', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -104,7 +104,7 @@
  'Pg103' => {'offset' => '3222.37', 'label' => 'Pg 93', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg104' => {'offset' => '3253.44', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg105' => {'offset' => '3258.19', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg106' => {'offset' => '3272.33', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg106' => {'offset' => '3272.30', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg107' => {'offset' => '3273.0', 'label' => 'Pg 97', 'style' => '"', 'action' => 'Start @', 'base' => '97'},
  'Pg108' => {'offset' => '3305.46', 'label' => 'Pg 98', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg109' => {'offset' => '3335.22', 'label' => 'Pg 99', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -141,10 +141,10 @@
  'Pg140' => {'offset' => '4221.30', 'label' => 'Pg 130', 'style' => '"', 'action' => 'Start @', 'base' => '130'},
  'Pg141' => {'offset' => '4258.29', 'label' => 'Pg 131', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg142' => {'offset' => '4287.34', 'label' => 'Pg 132', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg143' => {'offset' => '4318.59', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg143' => {'offset' => '4318.52', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg144' => {'offset' => '4334.32', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg145' => {'offset' => '4335.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg146' => {'offset' => '4350.38', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg146' => {'offset' => '4350.35', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg147' => {'offset' => '4351.0', 'label' => 'Pg 137', 'style' => '"', 'action' => 'Start @', 'base' => '137'},
  'Pg148' => {'offset' => '4383.18', 'label' => 'Pg 138', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg149' => {'offset' => '4415.17', 'label' => 'Pg 139', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -165,7 +165,7 @@
  'Pg164' => {'offset' => '4894.48', 'label' => 'Pg 154', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg165' => {'offset' => '4926.44', 'label' => 'Pg 155', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg166' => {'offset' => '4956.44', 'label' => 'Pg 156', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg167' => {'offset' => '4990.45', 'label' => 'Pg 157', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg167' => {'offset' => '4990.40', 'label' => 'Pg 157', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg168' => {'offset' => '5024.31', 'label' => 'Pg 158', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg169' => {'offset' => '5058.48', 'label' => 'Pg 159', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg170' => {'offset' => '5090.45', 'label' => 'Pg 160', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -236,7 +236,7 @@
  'Pg235' => {'offset' => '7198.42', 'label' => 'Pg 225', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg236' => {'offset' => '7229.42', 'label' => 'Pg 226', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg237' => {'offset' => '7256.44', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg238' => {'offset' => '7290.27', 'label' => 'Pg 228', 'style' => '"', 'action' => 'Start @', 'base' => '228'},
+ 'Pg238' => {'offset' => '7290.18', 'label' => 'Pg 228', 'style' => '"', 'action' => 'Start @', 'base' => '228'},
  'Pg239' => {'offset' => '7329.45', 'label' => 'Pg 229', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg240' => {'offset' => '7361.40', 'label' => 'Pg 230', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg241' => {'offset' => '7395.45', 'label' => 'Pg 231', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -1947,8 +1947,8 @@ $::proofers{'324'}[4] = 'franklloyd';
 $::proofers{'324'}[5] = 'fvandrog';
 
 $::operationshash{'Check Stealthos Word Frequency'}='2014-02-16 20:04';
-$::operationshash{'Check hyphens'}='2014-02-16 19:57';
 $::operationshash{'Begin Page Separators Fixup'}='2014-02-16 18:19';
+$::operationshash{'Check hyphens'}='2014-02-16 19:57';
 $::operationshash{'Fixup Routine'}='2014-02-16 17:45';
 $::operationshash{'Moved footnotes to landing zone'}='2014-02-16 20:51';
 $::operationshash{'Found no more orphaned /* */'}='2014-02-16 14:48';
@@ -1957,7 +1957,7 @@ $::operationshash{'Found no more /#..#/ blocks'}='2014-02-16 14:47';
 $::operationshash{'Spellcheck'}='2014-02-16 20:46';
 $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
 $::operationshash{'WF Check Ital/Bold/SC'}='2014-02-16 20:02';
-$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\seven_purposes.txt'}='2014-02-17 11:51';
+$::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\seven_purposes.txt'}='2014-02-17 13:02';
 $::operationshash{'Found no more orphaned ()'}='2014-02-16 14:48';
 $::operationshash{'Found no more asterisks without slash'}='2014-02-16 18:35';
 $::operationshash{'Footnote Fixup'}='2014-02-16 20:51';
@@ -1979,13 +1979,13 @@ $::operationshash{'Found no more orphaned /# #/'}='2014-02-16 14:48';
 $::operationshash{'Check , Upper'}='2014-02-16 20:00';
 $::operationshash{'Stealth Scannos'}='2014-02-16 20:22';
 $::operationshash{'Found no more orphaned {}'}='2014-02-16 14:48';
-$::operationshash{'Check Accents'}='2014-02-16 20:00';
 $::operationshash{'Check MiXeD CasE'}='2014-02-16 19:59';
+$::operationshash{'Check Accents'}='2014-02-16 20:00';
 $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
-$::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
+$::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 
-$::bookmarks[0] = '10102.3';
+$::bookmarks[0] = '16.2';
 $::bookmarks[1] = '10026.0';
 
 $::pngspath = 'C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\pngs\\';

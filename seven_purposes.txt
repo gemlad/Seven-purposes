@@ -21,26 +21,26 @@ F/
 
 
 /F
-                              <i>The</i>
+                              _The_
                             SEVEN PURPOSES
 
-                          <i>An Experience in
-                         Psychic Phenomena</i>
+                          _An Experience in
+                         Psychic Phenomena_
 
                                   BY
                            MARGARET CAMERON
 
                             [Illustration]
 
-                    <i>Harper & Brothers Publishers
-                        New York and London</i>
+                    _Harper & Brothers Publishers
+                        New York and London_
 F/
 
 
 
 
 /F
-                      <sc>The Seven Purposes</sc>
+                          THE SEVEN PURPOSES
 
                  Copyright, 1918, by Harper & Brothers
                 Printed in the United States of America
@@ -50,28 +50,28 @@ F/
 
 
 
-"<i>That is what we hope to establish as a recognized truth
+"_That is what we hope to establish as a recognized truth
 in your life there; that a force as yet unknown to science
 is operating between the planes, and can be developed and
-used in your life.</i>"
+used in your life._"
 
-"<i>A force compared to which electricity is spring water.</i>"
+"_A force compared to which electricity is spring water._"
 
-"<i>Some day your scientists will discover and prove by
-experiment certain laws now unrecognized.</i>"
+"_Some day your scientists will discover and prove by
+experiment certain laws now unrecognized._"
 
-"<i>If you will only believe and know that I am not dead.</i>"
+"_If you will only believe and know that I am not dead._"
 
-"<i>Come, all ye who struggle and strive! Perceive once
+"_Come, all ye who struggle and strive! Perceive once
 and forever the purpose of life. Join now the forces of
-construction, and bring to all men brotherhood.</i>"
+construction, and bring to all men brotherhood._"
 
-"<i>A great brotherhood is only possible when its component
-parts are great.</i>"
+"_A great brotherhood is only possible when its component
+parts are great._"
 
-"<i>Forget the class and remember the man. Forget the
+"_Forget the class and remember the man. Forget the
 price and remember the pearl. Forget the labor and remember
-the fruit. Forget the temple and remember God.</i>"
+the fruit. Forget the temple and remember God._"
 
 
 
@@ -202,13 +202,13 @@ persons involved, with three or four exceptions.
 Part I
 
 
-"<i>That is the eternal battle, between the purposes of
+"_That is the eternal battle, between the purposes of
 progress and building, and the purposes of disintegration.
 It goes on in your life, and it goes on less bitterly in ours.
-Help me build as we began, toward the great unity.</i>"
+Help me build as we began, toward the great unity._"
 
-"<i>This is the battle to which we call you and all who are
-for progress.</i>"
+"_This is the battle to which we call you and all who are
+for progress._"
 
 
 
@@ -287,7 +287,7 @@ were used freely. The punctuation throughout
 has been added, except in cases noted.
 
 /*
-                  <i>From a letter dated Monday morning, March 4th</i>:
+                  _From a letter dated Monday morning, March 4th_:
 */
 
 ... Instead of doing the usual loop sort of
@@ -324,13 +324,13 @@ either K or H, but looked more like K.
 
 "Tell me again." "Mary K."
 
-"Mary <i>K.</i>?" "Yes." Planchette was down
+"Mary _K._?" "Yes." Planchette was down
 at the lower right-hand corner of the table
 when I asked the last question, and it swung
 to the center, writing that "yes" very quickly
 and firmly.
 
-"<i>My</i> Mary K.?" "Yes ... yes ... yes."
+"_My_ Mary K.?" "Yes ... yes ... yes."
 
 Her name was Mary Katherine M----, but
 I always called her Mary K. She has been
@@ -412,7 +412,7 @@ queer, but I am very sure something outside of
 myself was doing it. I shall try again to-night.
 
 /*
-                  <i>From a letter dated Monday evening, March 4th</i>:
+                  _From a letter dated Monday evening, March 4th_:
 */
 
 I have just had another amazing try at
@@ -461,7 +461,7 @@ this. It seems too indefinite and unsatisfactory.
 But at least she can be sure I am not
 faking it. Something outside of me does it.
 
-<tb>
+       *       *       *       *       *
 
 That same evening I wrote to Mansfield
 Kendal, though what his attitude toward this
@@ -501,7 +501,7 @@ Kendal was the more insistent. As she said,
 later, "We know how much it means."
 
 /*
-<i>From a letter to Cass, dated Tuesday morning, March 5th:</i>
+_From a letter to Cass, dated Tuesday morning, March 5th:_
 */
 
 Another evening with Mary! H. dined with
@@ -553,7 +553,7 @@ but becomes illegible sooner.
 I wished to make her at peace, too, and would
 do all I could, and he wrote, "Thank you."
 
-<tb>
+       *       *       *       *       *
 
 As has been said, Cass had been ill, and his
 improvement after going to Atlantic City had
@@ -564,7 +564,7 @@ on Wednesday. It had been arranged
 that I should join him if he needed me.
 
 /*
-<i>From a letter dated Wednesday evening, March 6th:</i>
+_From a letter dated Wednesday evening, March 6th:_
 */
 
 Your letter and wire both came after four,
@@ -609,7 +609,7 @@ beg me to send messages to those they love--all
 this is startling and deeply impressive.
 Deeply moving.
 
-<tb>
+       *       *       *       *       *
 
 The next day I joined Cass at Atlantic City.
 He had never seen a planchette used, and
@@ -664,7 +664,7 @@ When Cass said he had thought the last word
 would be friend, Frederick concluded: "Friend,
 too. Thank you a million times."
 
-<tb>
+       *       *       *       *       *
 
 An interesting, but rather confusing, feature
 of these earlier communications was the constant
@@ -1839,7 +1839,7 @@ am not alive and loving them, because I know
 they still love me.
 
 /*
-"<sc>Frederick.</sc>"
+"FREDERICK."
 */
 
 Although the movement in this reversed
@@ -1902,7 +1902,7 @@ You can't even guess what this means to all
 of us, Sis and Babe and Dad and you and
 
 /*
-<sc>Frederick</sc>."
+FREDERICK."
 */
 
 His name was dropped a line, like a signature.
@@ -1933,11 +1933,11 @@ own."
 "Why don't you stay on?" he asked presently.
 "I can reach you, but not so definitely
 for a while to your sense, and actual speech
-with you is keen joy. Tell <f>Dad</f> ..."--the
+with you is keen joy. Tell ~Dad~ ..."--the
 erasure is his own--"... the family I want
 to talk to them, too. Let's have a reunion.
-One that won't leave me out. I want to <u>be
-in</u>." Rapidly and strongly, he underlined the
+One that won't leave me out. I want to =be
+in=." Rapidly and strongly, he underlined the
 last words three times.
 
 His mother promised that the family festivals
@@ -2012,7 +2012,7 @@ that he seemed excited.
 touch with your family, after long doubt and
 pain? I am no angel, you know, and thank
 God I am not above being excited. When I am
-I <u>will</u> be dead!" Again he underscored a word.
+I =will= be dead!" Again he underscored a word.
 
 Mrs. Gaylord spoke of her feeling of his
 presence, of his characteristic personality, saying
@@ -2022,7 +2022,7 @@ that he seemed "just the same."
 now. I don't mean that I am perfect, you
 know. I've got more to learn than I ever
 knew existed, but I can see ahead now. And
-you <u>would</u> like me better.... I didn't say love
+you =would= like me better.... I didn't say love
 me better," he added.
 
 We talked about the force moving the pencil,
@@ -2155,7 +2155,7 @@ insistence to reach him before he should
 go South again--I telegraphed him that I had
 reason to believe I had been in direct communication
 for several days with Mary and
-others, and asked him to return <i>via</i> New
+others, and asked him to return _via_ New
 York, if possible.
 
 Early that evening I took up a pencil, which
@@ -2801,7 +2801,7 @@ Part of your development comes
 through your struggle to decide, and while we
 see your struggle, we can help only by giving
 you as much of our strength and light as
-you can take. It <u>is</u> a moral universe, Manzie."
+you can take. It =is= a moral universe, Manzie."
 The underscoring is hers.
 
 Out of his wide experience with psychic
@@ -3142,7 +3142,7 @@ there will be more given to you in fragments.
 Piece it together for yourself, but do not give
 it to any one as long as you are still receiving
 it.... The light is breaking, and you are the
-<f>aces</f> ... accustomed ..."--later she returned,
+~aces~ ... accustomed ..."--later she returned,
 to write "accredited" over this word. I think
 neither was what she tried for. Perhaps accessible?--"...
 force to make the meaning
@@ -3265,11 +3265,11 @@ Part II
 THE LESSONS
 
 
-"<i>The lessons came from great forces combined. They
+"_The lessons came from great forces combined. They
 represent unity of all purposes, and were framed by the
 co-operation and agreement of the greatest forces of each
 constructive purpose, to reach the consciousness of men in
-general terms of your plane.</i>"
+general terms of your plane._"
 
 
 
@@ -3278,7 +3278,7 @@ I
 
 
 /*
-<i>March 23d.</i>
+_March 23d._
 */
 
 "All pure purpose is fearless, whether for
@@ -3384,7 +3384,7 @@ II
 
 
 /*
-<i>March 26th.</i>
+_March 26th._
 */
 
 "This is the second lesson.
@@ -3490,7 +3490,7 @@ III
 
 
 /*
-<i>March 31st.</i>
+_March 31st._
 */
 
 "This is the third lesson.
@@ -3613,7 +3613,7 @@ IV
 
 
 /*
-<i>April 1st.</i>
+_April 1st._
 */
 
 "This is the fourth lesson.
@@ -3696,7 +3696,7 @@ V
 
 
 /*
-<i>April 3d.</i>
+_April 3d._
 */
 
 "This is the fifth lesson.
@@ -3809,7 +3809,7 @@ VI
 
 
 /*
-<i>April 3d.</i>
+_April 3d._
 */
 
 "This is the sixth lesson.
@@ -3910,7 +3910,7 @@ VII
 
 
 /*
-<i>April 5th.</i>
+_April 5th._
 */
 
 "This is the seventh lesson.
@@ -3984,7 +3984,7 @@ VIII
 
 
 /*
-<i>April 8th.</i>
+_April 8th._
 */
 
 "This is the eighth lesson.
@@ -4048,7 +4048,7 @@ IX
 
 
 /*
-<i>April 8th.</i>
+_April 8th._
 */
 
 "This is the ninth lesson.
@@ -4107,7 +4107,7 @@ X
 
 
 /*
-<i>April 9th.</i>
+_April 9th._
 */
 
 "This is the tenth lesson.
@@ -4166,7 +4166,7 @@ XI
 
 
 /*
-<i>April 12th.</i>
+_April 12th._
 */
 
 "This is the eleventh lesson.
@@ -4227,7 +4227,7 @@ XII
 
 
 /*
-<i>April 12th.</i>
+_April 12th._
 */
 
 "This is the twelfth lesson.
@@ -4272,7 +4272,7 @@ and not fully animated good, combined
 in a destructive purpose by the attraction
 I mentioned."
 
-<tb>
+       *       *       *       *       *
 
 An apparent contradiction of a statement
 in the first Lesson--"All pure purpose is fearless,
@@ -4287,7 +4287,7 @@ brutal in consummating it, but cowards individually.
 Fearless of consequences when they
 pursue, but fearful when they fail. Like Germans."
 
-<tb>
+       *       *       *       *       *
 
 Early in June, I discovered a relation between
 the definition of Eternal Purpose in the
@@ -4300,7 +4300,7 @@ perfect sympathy (Healing), perfect unity
 (Building), and eternal growth (Progress), which
 is progress perfectly expressed."
 
-<tb>
+       *       *       *       *       *
 
 The end of the seventh Lesson seemed obscure,
 until the relation between its clauses
@@ -4311,19 +4311,19 @@ brother. (3) No man is free who fears to follow
 his purpose with all his force. (4) No man
 is free who fails to carry his share of the common
 load. He may have wealth and luxury,
-yet is he slave (1) <i>if he commands not himself</i>.
-He may be tempted by beauty (2) <i>to forget his
-brother</i>, yet is he slave, <i>if he commands not
-himself</i>. He may be frightened by calamity
-(3) <i>in following his purpose</i>, yet is he slave, <i>if
-he commands not himself</i>. He may be beaten
-by strangers (4) <i>while carrying his share of the
-common load</i>, yet is he slave <i>if he commands
-not himself</i>."
+yet is he slave (1) _if he commands not himself_.
+He may be tempted by beauty (2) _to forget his
+brother_, yet is he slave, _if he commands not
+himself_. He may be frightened by calamity
+(3) _in following his purpose_, yet is he slave, _if
+he commands not himself_. He may be beaten
+by strangers (4) _while carrying his share of the
+common load_, yet is he slave _if he commands
+not himself_."
 
-<tb>
+       *       *       *       *       *
 
-<i>9th Lesson.</i>
+_9th Lesson._
 
 A curious inconsistency in the use of verbs
 will be noticed here, archaic and modern forms
@@ -4339,15 +4339,15 @@ or intention as yet unexplained.
 Part III
 
 
-"<i>Science is the ladder by which life may quickly ascend,
+"_Science is the ladder by which life may quickly ascend,
 but until science recognizes a spiritual force as the one
 essential force, of which all other forces are incidental
-phenomena, progress must be limited.</i>"
+phenomena, progress must be limited._"
 
-"<i>We have purpose to progress beyond the vision of man,
+"_We have purpose to progress beyond the vision of man,
 but even material progress, to be constructive and permanent,
 must be governed by a vision beyond the day. We
-are trying to extend that vision.</i>"
+are trying to extend that vision._"
 
 
 
@@ -4376,8 +4376,8 @@ or infinite?"
 eternal will not be over with the end of the
 Great War. That will be only a temporary
 lull, and we shall have it all to do over and
-over, until conscious purpose ends it. <i>Do not
-fear.</i>" The emphasis is hers.
+over, until conscious purpose ends it. _Do not
+fear._" The emphasis is hers.
 
 To be sure I had made no mistake, I pressed
 the inquiry again.
@@ -4531,7 +4531,7 @@ wa...." There it ran off into nervous, illegible
 waves. When I said I could not follow,
 and asked that the message be more
 slowly given, it was resumed where it had been
-dropped. "... wants to talk to <f>E</f> ... Bess."
+dropped. "... wants to talk to ~E~ ... Bess."
 His wife's name is Elizabeth, and naturally
 was in my mind, but having written E, the
 pencil balked, delayed, crossed out the E,
@@ -4744,7 +4744,7 @@ which she had not visited--indeed, had scarcely
 dared to think of--since taking Frederick's
 body there for burial; and the day after the
 second Lesson was given she arrived in New
-York, where she paused briefly <i>en route</i>, her
+York, where she paused briefly _en route_, her
 elder daughter and son-in-law joining her the
 next morning.
 
@@ -4987,7 +4987,7 @@ like himself."
 
 "Sure! Why not?" he returned. "You
 people must learn that this isn't 'like himself.'
-It <i>is</i> himself. Right here on the job."
+It _is_ himself. Right here on the job."
 
 "Those words!" His mother and sister exchanged
 startled glances. Then they told me
@@ -5244,7 +5244,7 @@ next good time, as we were then."
 "He knows it is ending, and we must go
 to our trains," Mrs. Gaylord said.
 
-"Not ending at all. Beginning! <i>Hooray!</i>"
+"Not ending at all. Beginning! _Hooray!_"
 
 On that triumphant note they took their
 departure, Mrs. Gaylord westward bound, the
@@ -5478,7 +5478,7 @@ profession.
 
 Whimsical Anne Lowe, writing to three
 friends of her continued association with them,
-said: "Believe--<i>know</i>--that we are a positive
+said: "Believe--_know_--that we are a positive
 force, and united we stand, hurrah! Our
 faith helps all beneficent purpose. Its force
 is freed and multiplied by the sum of your
@@ -5958,7 +5958,7 @@ the other fellow's. Find out who is for progress,
 and who merely camouflages disintegration.
 Conscious co-operation of constructive
 purpose is warranted to beat the devil. He
-can't defeat it, nor yet delay it. (O) <i>That</i> is
+can't defeat it, nor yet delay it. (O) _That_ is
 what it means to all of us.... Come on in.
 The water's fine!"
 
@@ -6067,8 +6067,8 @@ you promised me?"
 
 "The letters are coming, fearful and wonderful
 messenger," she humorously assured me.
-"You have not made a <f>m</f> ... <f>fr</f> ... <f>friend</f> ...
-<f>free</f> ... fantom (O) friend in vain."
+"You have not made a ~m~ ... ~fr~ ... ~friend~ ...
+~free~ ... fantom (O) friend in vain."
 
 Laughing, I asked: "Is 'fantom friend'
 right?"
@@ -6261,8 +6261,8 @@ message incorrectly, but it was repeated.
 
 "Mr. Farrow is dead. Cass will hear later."
 When I insisted that this could not be true,
-it was reiterated. "Yes, he is here, and <f>b</f> ...
-<f>blon</f> ... <f>latter</f> ... bewildered. Mary K."
+it was reiterated. "Yes, he is here, and ~b~ ...
+~blon~ ... ~latter~ ... bewildered. Mary K."
 
 Our personal relations with Mr. Farrow,
 while pleasant, have never been close, being
@@ -6784,7 +6784,7 @@ But after the first interview with Frederick
 at L----, I wrote Cass (April 17th): "If ever
 I had any doubts about the truth of this, they
 are gone! Somebody did something I don't
-understand, but this is <i>real</i>."
+understand, but this is _real_."
 
 I have given this experience in some detail,
 not only because it corroborates the statements
@@ -7272,7 +7272,7 @@ gospel. You will have proved it for yourself.
 /*
 "Your son always,
 
-"<sc>Frederick</sc>."
+"FREDERICK."
 */
 
 We were all deeply moved. After a little,
@@ -7287,7 +7287,7 @@ more to-night, except my love to all of you,
 always--and to-morrow, and the next day,
 and all the days to come, we are reunited and
 indivisible. That's enough, isn't it, sir? Good
-night. <sc>Frederick.</sc>"
+night. FREDERICK."
 
 FOOTNOTES:
 
@@ -7609,7 +7609,7 @@ and knowledge of you and your love.
 /*
 Your loving
 
-<sc>Mother</sc>."
+MOTHER."
 */
 
 
@@ -8315,7 +8315,7 @@ tried again.
 
 "I want Mary K. Why isn't she here?"
 
-"Mary K. will be <f>ret</f> ... eternally with you."
+"Mary K. will be ~ret~ ... eternally with you."
 
 "Then isn't she here now?"
 
@@ -8333,7 +8333,7 @@ truth and healing."
 
 "Then why was your name given before it?"
 
-"Mary K. <f>to</f> ... <f>taken</f> ... <f>told</f> ... <f>took</f> ...
+"Mary K. ~to~ ... ~taken~ ... ~told~ ... ~took~ ...
 tried to tell you I was here and would guard
 you. She will return soon."
 
@@ -8341,7 +8341,7 @@ you. She will return soon."
 give it to me?"
 
 "Not all of it. She will explain. I am just
-Mary K.'s <f>tatl</f> ... <f>to</f> ... <f>tr</f> ... <f>tried</f> ...
+Mary K.'s ~tatl~ ... ~to~ ... ~tr~ ... ~tried~ ...
 trained substitute."
 
 Asked how he could be her substitute, when
@@ -8474,19 +8474,19 @@ formed. Occasionally, the pencil was dragged
 down until it almost lay flat on the paper, and
 cancelations were frequent.
 
-"Matthew Alden is <f>destructive</f> ... Ma ...
-M.A. ... Matthew is destr ... des ... <f>de</f> ...
+"Matthew Alden is ~destructive~ ... Ma ...
+M.A. ... Matthew is destr ... des ... ~de~ ...
 disturbed about Mary K. She means to be
-the force <f>de</f> ... to <f>have</f> ... han ... handle
-you, but she <f>destr</f> ... has not <f>done</f> ... been
-<f>here</f> ... held to her purpose, and has departed
+the force ~de~ ... to ~have~ ... han ... handle
+you, but she ~destr~ ... has not ~done~ ... been
+~here~ ... held to her purpose, and has departed
 to the other side of the world. She must be
 held firmly to her purpose."
 
 Knowing Mary K.'s steadfastness in all
 things, I said that this was absurd.
 
-"She will be <f>pursued</f> ... <f>bett</f> ... forced to
+"She will be ~pursued~ ... ~bett~ ... forced to
 strong pleading to be allowed to do the rest
 of the letters. She should be having a following
 of our forces. She has been detained for
@@ -8497,7 +8497,7 @@ a battle.... Matthew has been defeated and
 Bewildered and irritated, I demanded:
 "What does this mean?"
 
-"Means that the <f>powers</f> ... forces of <f>de</f> ... construction
+"Means that the ~powers~ ... forces of ~de~ ... construction
 are defeated. We have been
 beaten."
 
@@ -8529,9 +8529,9 @@ K. were writing. "No. Go to high forces
 for help. Only be forceful for us first. Mary
 K. will do her best for forces of light and
 progress. Matthew is better and danger is
-passing. <f>M.A.</f>" I demanded Mary K. "Not
+passing. ~M.A.~" I demanded Mary K. "Not
 this time. All the forces have gathered....
-She <f>should</f> ... said be forceful."
+She ~should~ ... said be forceful."
 
 Saying that the whole thing seemed absurd,
 I asked whether it had to do with Germany
@@ -8539,8 +8539,8 @@ and the war, or with the book and me--provided
 it had to do with anything, which I began
 to question.
 
-"It is the <f>flander</f> ... it is the <f>battle</f> ...
-book, not the <f>godse</f> ... god sent war."
+"It is the ~flander~ ... it is the ~battle~ ...
+book, not the ~godse~ ... god sent war."
 
 Amazed, I questioned: "Is God-sent war
 right?"
@@ -9151,10 +9151,10 @@ eternal law is absolute, but when applied to concrete
 facts and ideas, it changes from time to
 time? That is, a concrete statement which
 expressed the relations of certain mundane
-conditions to the eternal verities in <sc>B.C.</sc> 1000,
+conditions to the eternal verities in B.C. 1000,
 would not necessarily be a correct statement
 of the relations of corresponding conditions to
-those verities in the year 1900 <sc>A.D.</sc>"
+those verities in the year 1900 A.D."
 
 "That is the idea on which this whole revelation
 is based," she returned. "These things
@@ -10078,13 +10078,13 @@ is a warning to unite and prepare for combat.
 "This is the truth. Heed it.
 
 /*
-                                                     "<sc>Mary K.</sc>"
+                                                     "MARY K."
 
-<i>June 13, 1918.</i>
+_June 13, 1918._
 */
 
 /*
-                           <sc>THE END</sc>
+                                THE END
 */
 
 
@@ -10110,8 +10110,8 @@ The following alterations have been made:
    130   free purpose demands justice   Full stop added at end of
                                         sentence.
 
-   132   may be free For brotherhood    Full stop added at end of sentence
-         commandeth
+   132   may be free For brotherhood    Full stop added at end of
+         commandeth                     sentence.
 
    197   by his death. But did not      "I" added = "But I did not
          believe it.                    believe it."
