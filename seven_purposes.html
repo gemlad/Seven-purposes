@@ -19,6 +19,7 @@ body {
 h1,h2,h3,h4,h5,h6 {
     text-align: center; /* all headings centered */
     clear: both;
+	text-indent: 0em;
 }
 
 h2 {
@@ -204,6 +205,7 @@ em.gesperrt
 		list-style-type: none;  /*list with no symbol */
 		position: relative;		/*makes a "container" for span.tocright */
 		width: 85%;				/*page-number margin pulls in */
+		text-indent: 0em;
 		}
 
 /* custom */		
@@ -211,45 +213,52 @@ em.gesperrt
 	font-size: 120%;
 	text-align: center;
 	margin-bottom: 5em;
+	text-indent: 0em;
 }
 .titlepage1 { /* title page italic */
 	text-align: center;
 	font-style: italic;
 	font-size: 150%;
+	text-indent: 0em;
 }
 .titlepage2 { /* main title */
 	text-align: center;
 	font-size: 180s%;
 	margin-top: 2em;
 	margin-bottom: 2em;
+	text-indent: 0em;
 }
 .titlepage3 { /* statement of responsibility */
 	text-align: center;
 	margin-top: 3em;
 	margin-bottom: 5em;
+	text-indent: 0em;
 }
 .titlepage4 { /* publisher */
 	text-align: center;
 	font-style: italic;
 	margin-top: 5em;
 	margin-bottom: 5em;
+	text-indent: 0em;
 }
 .titlepage5 { /* place */
 	text-align: center;
 	font-style: italic;
 	font-size: 80%;
-
+	text-indent: 0em;
 }
 .tpverso1 { /*  */
 	text-align: center;
 	font-size: 80%;
 	margin-bottom: 5em;
+	text-indent: 0em;
 }
 .tpverso2 { /* hr */
 	text-align: center;
 	width: 5%;
 	margin-top: -3.5em;
 	margin-bottom: 0.5em;
+	text-indent: 0em;
 }
 .frontquote { /* quotes at chapter start */
 	font-style: italic;
@@ -260,15 +269,29 @@ em.gesperrt
 	font-size: 90%;
 	text-align: right;
 	font-style: italic;
-
+	text-indent: 0em;
+	margin-right: 1em;
 }
 .letteroutro { /* right-aligned */
+	text-align: right;
+	margin-right: 2em;
 }
 .strike { /* strikethrough */
+	text-decoration: line-through;
 }
-.end { /* the end */
+
+.end1 {
+	font-size: 90%;
+	font-style: italic;
+	
+}
+.end2 { /* the end */
+	text-align: center;
+	font-size: 80%;
+	text-indent: 0em;
 }
 .illustration { /* diagram */
+	text-align: center;
 }
 
     </style>
@@ -3511,8 +3534,6 @@ he did not go alone.</p>
 
 <hr class="chap" />
 
-<hr class="chap" />
-
 <p><span class="pagenum"><a name="Page_88" id="Page_88">[Pg 88]</a></span></p>
 
 
@@ -3710,7 +3731,7 @@ accustomed me to this experience, I felt as if
 I must be dreaming.</p>
 
 
-
+<hr class="chap" />
 
 <h2>
 	<a name="Part_II" id="Part_II">Part II</a><br />
@@ -4766,8 +4787,6 @@ greater glories without end.</p>
 
 <hr class="chap" />
 
-<hr class="chap" />
-
 <p><span class="pagenum"><a name="Page_131" id="Page_131">[Pg 131]</a></span></p>
 
 
@@ -4846,7 +4865,7 @@ when this lesson was taken, to the presence in
 the room of other persons, or to some condition
 or intention as yet unexplained.</p>
 
-
+<hr class="chap" />
 
 
 <h2><a name="Part_III" id="Part_III">Part III</a></h2>
@@ -10730,11 +10749,11 @@ is a warning to unite and prepare for combat.</p>
 <p class="letteroutro">
 	"<span class="smcap">Mary K.</span>"
 </p>
-<p>
-<i>June 13, 1918.</i><br />
+<p class="end1">
+June 13, 1918.
 </p>
 
-<p class="end">
+<p class="end2">
 	<span class="smcap">THE END</span>
 </p>
 
