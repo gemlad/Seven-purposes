@@ -14,4 +14,4 @@ strike: strikethrough
 end: the end
 
 change heading names to 2.I etc.
-search for 'antiqua' - check and change to strike
+
