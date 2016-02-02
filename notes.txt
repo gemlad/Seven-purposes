@@ -13,5 +13,5 @@ letteroutro: right-aligned
 strike: strikethrough
 end: the end
 
-change heading names to 2.I etc.
+
 

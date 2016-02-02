@@ -1955,6 +1955,7 @@ $::operationshash{'Found no more orphaned /* */'}='2014-02-16 14:48';
 $::operationshash{'Check alpha/num'}='2014-02-16 19:59';
 $::operationshash{'Found no more /#..#/ blocks'}='2014-02-16 14:47';
 $::operationshash{'Spellcheck'}='2014-02-16 20:46';
+$::operationshash{'Begin HTML Markup'}='2016-02-02 10:34';
 $::operationshash{'Found no more orphaned <>'}='2014-02-16 14:48';
 $::operationshash{'WF Check Ital/Bold/SC'}='2014-02-16 20:02';
 $::operationshash{'Open C:\Users\Gemma\Documents\pgdp\pp\Seven purposes\seven_purposes.txt'}='2014-02-17 11:51';
@@ -1987,7 +1988,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 
-$::bookmarks[0] = '250.0';
+$::bookmarks[0] = '264.67';
 $::bookmarks[1] = '193.0';
 $::bookmarks[2] = '249.0';
 $::bookmarks[3] = '257.0';
