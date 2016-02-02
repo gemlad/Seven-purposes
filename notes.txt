@@ -12,6 +12,7 @@ letterintro: right-aligned, small, italic.
 letteroutro: right-aligned
 strike: strikethrough
 end: the end
+illustration: diagram
 
 
 
