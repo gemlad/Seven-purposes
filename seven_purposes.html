@@ -12,11 +12,21 @@
 body {
     margin-left: 10%;
     margin-right: 10%;
+	text-align: justify;
+	text-indent: 2em;
 }
 
-    h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
     text-align: center; /* all headings centered */
     clear: both;
+}
+
+h2 {
+	letter-spacing: 0.1em;
+}
+
+h3 {
+	font-size: 130%;
 }
 
 p {
@@ -38,7 +48,7 @@ hr {
     clear: both;
 }
 
-hr.tb   {width: 45%;}
+hr.tb   {width: 25%;}
 hr.chap {width: 65%}
 hr.full {width: 95%;}
 
@@ -196,6 +206,71 @@ em.gesperrt
 		width: 85%;				/*page-number margin pulls in */
 		}
 
+/* custom */		
+.halftitle { /* half title page */
+	font-size: 120%;
+	text-align: center;
+	margin-bottom: 5em;
+}
+.titlepage1 { /* title page italic */
+	text-align: center;
+	font-style: italic;
+	font-size: 150%;
+}
+.titlepage2 { /* main title */
+	text-align: center;
+	font-size: 180s%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.titlepage3 { /* statement of responsibility */
+	text-align: center;
+	margin-top: 3em;
+	margin-bottom: 5em;
+}
+.titlepage4 { /* publisher */
+	text-align: center;
+	font-style: italic;
+	margin-top: 5em;
+	margin-bottom: 5em;
+}
+.titlepage5 { /* place */
+	text-align: center;
+	font-style: italic;
+	font-size: 80%;
+
+}
+.tpverso1 { /*  */
+	text-align: center;
+	font-size: 80%;
+	margin-bottom: 5em;
+}
+.tpverso2 { /* hr */
+	text-align: center;
+	width: 5%;
+	margin-top: -3.5em;
+	margin-bottom: 0.5em;
+}
+.frontquote { /* quotes at chapter start */
+	font-style: italic;
+	text-indent: 3em;
+	text-align: justify;
+}
+.letterintro { /* right-aligned, small, italic. */
+	font-size: 90%;
+	text-align: right;
+	font-style: italic;
+
+}
+.letteroutro { /* right-aligned */
+}
+.strike { /* strikethrough */
+}
+.end { /* the end */
+}
+.illustration { /* diagram */
+}
+
     </style>
   </head>
 <body>
@@ -294,18 +369,19 @@ em.gesperrt
 	<span class="titlepage2">SEVEN PURPOSES</span><br />
 
 	<span class="titlepage1">An Experience in<br />
-	Psychic Phenomena</span><br />
-
-	<span class="titlepage3">BY<br />
-	MARGARET CAMERON</span>
+	Psychic Phenomena</span>
 </h1>
+
+<p class="titlepage3">BY<br />
+	MARGARET CAMERON</span>
+</p>
 
 <p class="center">
 	<img src="images/title_page.png" alt="" />
 </p>
 
-<p>
-	<span class="titlepage4">Harper &amp; Brothers Publishers</span><br />
+<p class="titlepage4">
+	Harper &amp; Brothers Publishers<br />
 	<span class="titlepage5">New York and London</span>
 </p>
 
@@ -488,7 +564,7 @@ used have been substituted for those of the
 persons involved, with three or four exceptions.</p>
 
 
-
+<hr class="chap" />
 
 <h2><a name="Part_I" id="Part_I">Part I</a></h2>
 
@@ -512,7 +588,7 @@ persons involved, with three or four exceptions.</p>
 
 
 <h3>
-	<a name="THE_SEVEN_PURPOSES" id="THE_SEVEN_PURPOSES">THE SEVEN PURPOSES</a><br />
+	<a name="THE_SEVEN_PURPOSES" id="THE_SEVEN_PURPOSES">THE SEVEN PURPOSES</a><br /><br /><br />
 	<a name="I.I" id="I.I">I</a>
 </h3>
 
