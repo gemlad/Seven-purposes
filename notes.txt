@@ -1,0 +1,10 @@
+classes:
+halftitle: half title page
+titlepage1: title page italic
+titlepage2: main title
+titlepage3: statement of responsibility
+titlepage4: publisher
+titlepage5: place
+tpverso1: 
+tpverso2: hr
+frontquote: quotes on page 5
