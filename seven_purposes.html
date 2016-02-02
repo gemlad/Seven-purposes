@@ -75,6 +75,18 @@ td, th {
 	padding: 5px;
 	border-bottom: 1px solid #999;
 }
+
+p.drop-cap {
+  text-indent: 0em;
+}
+p.drop-cap:first-letter
+{
+  float: left; 
+  margin: 0.15em 0.1em 0em 0em;
+  font-size: 250%;
+  line-height:0.85em;
+}
+
 	
 
 
@@ -304,6 +316,16 @@ em.gesperrt
 	text-align: center;
 }
 
+/* Other media */
+@media handheld
+{
+  p.drop-cap:first-letter
+  {
+    float: none; 
+    margin: 0;
+    font-size: 100%;
+  }
+}
     </style>
   </head>
 <body>
@@ -628,7 +650,7 @@ persons involved, with three or four exceptions.</p>
 </h3>
 
 
-<p>My first serious attempt to establish communication
+<p class="drop-cap">My first serious attempt to establish communication
 through planchette with a
 person or persons in a life beyond ours was
 made Sunday morning, March 3, 1918. Not so
@@ -3773,7 +3795,7 @@ I must be dreaming.</p>
 	March 23d.
 </p>
 
-<p>"All pure purpose is fearless, whether for
+<p class="drop-cap">"All pure purpose is fearless, whether for
 good or evil, but few humans are pure
 purpose, and the first fight is in themselves.
 All this has been said before in effect, but
@@ -4906,7 +4928,7 @@ or intention as yet unexplained.</p>
 <h3><a name="III.I" id="III.I">I</a></h3>
 
 
-<p>Immediately after the first Lesson had
+<p class="drop-cap">Immediately after the first Lesson had
 been given, Cass telephoned that the news
 from France was alarming. It was Saturday,
 March 23d. The great German offensive of
