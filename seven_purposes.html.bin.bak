@@ -1969,7 +1969,7 @@ $::operationshash{'Check words with possible ligatures'}='2014-02-16 20:03';
 $::operationshash{'Check . lower'}='2014-02-16 20:01';
 $::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2014-02-16 14:48';
 $::operationshash{'Check Character Cnts'}='2014-02-16 19:48';
-$::operationshash{'pphtml'}='2016-02-03 22:03';
+$::operationshash{'pphtml'}='2016-02-03 22:34';
 $::operationshash{'Found no more orphaned /$ $/'}='2014-02-16 14:48';
 $::operationshash{'Found last page separator'}='2014-02-16 18:21';
 $::operationshash{'Begin HTML Generation'}='2016-02-01 22:26';
@@ -1992,7 +1992,7 @@ $::operationshash{'Found no more orphaned “ ”'}='2014-02-16 14:48';
 $::operationshash{'Remove end-of-line spaces'}='2014-02-16 17:58';
 $::operationshash{'Found no more /*..*/ blocks'}='2014-02-16 18:03';
 
-$::bookmarks[0] = '36.21';
+$::bookmarks[0] = '38.0';
 $::bookmarks[1] = '116.0';
 $::bookmarks[2] = '146.1';
 $::bookmarks[3] = '155.0';
