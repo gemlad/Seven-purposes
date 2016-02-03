@@ -7,6 +7,7 @@
     <title>
       The Project Gutenberg eBook of THE SEVEN PURPOSES, by MARGARET CAMERON.
     </title>
+    <link rel="coverpage" href="images/cover.jpg" />
     <style type="text/css">
 
 body {
@@ -232,6 +233,11 @@ em.gesperrt
 	font-family: monospace, sans-serif, serif;
 }
 
+.covernote {visibility: hidden; display: none;}
+@media handheld {
+  .covernote {visibility: visible; display: block;}
+}
+
 /* TOC */
 	ul.TOC { /* TOC as a whole, or any sub-list of sub-topics in it */
 		list-style-type: none;  /*list with no symbol */
@@ -345,6 +351,10 @@ em.gesperrt
 <div class="transnote">
 <p>Transcriber's note:</p>
 
+<p class="covernote">
+	The cover image was created by the transcriber and is placed in the
+	public domain.
+</p>
 <p>
 	Corrections and alterations from the original can be found at the <a href="#endnote">end of
 	the book</a>.
