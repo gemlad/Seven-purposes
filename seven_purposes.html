@@ -87,7 +87,11 @@ p.drop-cap:first-letter
   line-height:0.85em;
 }
 
-
+div.chapter {page-break-before: always;}
+.nobreak {page-break-before: avoid;}
+.break-before {
+ page-break-before: always;
+}
 
 
 .pagenum { /* uncomment the next line for invisible page numbers */
@@ -242,6 +246,7 @@ em.gesperrt
 	text-align: center;
 	margin-bottom: 5em;
 	text-indent: 0em;
+	page-break-before: always;
 }
 .titlepage1 { /* title page italic */
 	text-align: center;
@@ -280,6 +285,7 @@ em.gesperrt
 	font-size: 80%;
 	margin-bottom: 5em;
 	text-indent: 0em;
+	page-break-before: always;
 }
 .tpverso2 { /* hr */
 	text-align: center;
@@ -506,7 +512,9 @@ em.gesperrt
 
 
 
-<h2><a name="INTRODUCTION" id="INTRODUCTION">INTRODUCTION</a></h2>
+<div class="chapter">
+<h2 class="nobreak"><a name="INTRODUCTION" id="INTRODUCTION">INTRODUCTION</a></h2>
+</div>
 
 
 <p>Twenty-five years or more ago my attention
@@ -629,7 +637,9 @@ persons involved, with three or four exceptions.</p>
 
 <hr class="chap" />
 
-<h2><a name="Part_I" id="Part_I">Part I</a></h2>
+<div class="chapter">
+<h2 class="nobreak"><a name="Part_I" id="Part_I">Part I</a></h2>
+</div>
 
 
 <p class="frontquote">
@@ -646,14 +656,17 @@ persons involved, with three or four exceptions.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_3" id="Page_3" href="#Page_3">[3]</a></span></p>
 
 
 
-<h3>
+
+<h3 class="nobreak">
 	<a name="THE_SEVEN_PURPOSES" id="THE_SEVEN_PURPOSES">THE SEVEN PURPOSES</a><br /><br /><br />
 	<a name="I.I" id="I.I">I</a>
 </h3>
+</div>
 
 
 <p class="drop-cap">My first serious attempt to establish communication
@@ -1162,13 +1175,15 @@ day, lest these fragmentary messages fail either
 to convince or to comfort her.</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_17" id="Page_17" href="#Page_17">[17]</a></span></p>
 
 
 
 
-<h3><a name="I.II" id="I.II">II</a></h3>
+
+<h3 class="nobreak"><a name="I.II" id="I.II">II</a></h3>
+</div>
 
 
 <p>The next morning, Friday, March 8th, before
@@ -1690,13 +1705,15 @@ She denied it, but he said, "She is tired," and
 we talked no more that afternoon.</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_32" id="Page_32" href="#Page_32">[32]</a></span></p>
 
 
 
 
-<h3><a name="I.III" id="I.III">III</a></h3>
+
+<h3 class="nobreak"><a name="I.III" id="I.III">III</a></h3>
+</div>
 
 
 <p>Shortly before dinner that night I picked
@@ -1923,12 +1940,14 @@ sorry I upset you."</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_39" id="Page_39" href="#Page_39">[39]</a></span></p>
 
 
 
 
-<h3><a name="I.IV" id="I.IV">IV</a></h3>
+<h3 class="nobreak"><a name="I.IV" id="I.IV">IV</a></h3>
+</div>
 
 
 <p>The more I thought about the Kendal affair
@@ -2332,12 +2351,14 @@ understand.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_51" id="Page_51" href="#Page_51">[51]</a></span></p>
 
 
 
 
-<h3><a name="I.V" id="I.V">V</a></h3>
+<h3 class="nobreak"><a name="I.V" id="I.V">V</a></h3>
+</div>
 
 
 <p>The next day (Monday, March 11th) we
@@ -2615,13 +2636,15 @@ son as vitally alive and happy as she now knew
 Frederick to be.</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_59" id="Page_59" href="#Page_59">[59]</a></span></p>
 
 
 
 
-<h3><a name="I.VI" id="I.VI">VI</a></h3>
+
+<h3 class="nobreak"><a name="I.VI" id="I.VI">VI</a></h3>
+</div>
 
 
 <p>One of my letters to Mr. Kendal had been
@@ -3081,13 +3104,15 @@ too?"</p>
 <p>"Yes."</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_73" id="Page_73" href="#Page_73">[73]</a></span></p>
 
 
 
 
-<h3><a name="I.VII" id="I.VII">VII</a></h3>
+
+<h3 class="nobreak"><a name="I.VII" id="I.VII">VII</a></h3>
+</div>
 
 
 <p>It seemed to me that if Mr. Kendal had not
@@ -3573,13 +3598,15 @@ carrying with him the happy conviction that
 he did not go alone.</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_88" id="Page_88" href="#Page_88">[88]</a></span></p>
 
 
 
 
-<h3><a name="I.VIII" id="I.VIII">VIII</a></h3>
+
+<h3 class="nobreak"><a name="I.VIII" id="I.VIII">VIII</a></h3>
+</div>
 
 
 <p>Up to this time the messages, while frequently
@@ -3773,10 +3800,12 @@ I must be dreaming.</p>
 
 <hr class="chap" />
 
-<h2>
+<div class="chapter">
+<h2 class="nobreak">
 	<a name="Part_II" id="Part_II">Part II</a><br />
 	THE LESSONS
 </h2>
+</div>
 
 
 <p class="frontquote">
@@ -3788,13 +3817,14 @@ I must be dreaming.</p>
 </p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_97" id="Page_97" href="#Page_97">[97]</a></span></p>
 
 
 
 
-<h3><a name="II.I" id="II.I">I</a></h3>
+
+<h3 class="nobreak"><a name="II.I" id="II.I">I</a></h3>
 
 
 <p class="letterintro">
@@ -3901,12 +3931,14 @@ and progressive brotherhood.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_101" id="Page_101" href="#Page_101">[101]</a></span></p>
 
 
 
 
-<h3><a name="II.II" id="II.II">II</a></h3>
+<h3 class="nobreak"><a name="II.II" id="II.II">II</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4010,13 +4042,15 @@ progress&mdash;consciously, freely, strongly.</p>
 <p>"This is the second lesson."</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_105" id="Page_105" href="#Page_105">[105]</a></span></p>
 
 
 
 
-<h3><a name="II.III" id="II.III">III</a></h3>
+
+<h3 class="nobreak"><a name="II.III" id="II.III">III</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4137,13 +4171,15 @@ hourly the purpose ye serve.</p>
 <p>"This is the third lesson."</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_109" id="Page_109" href="#Page_109">[109]</a></span></p>
 
 
 
 
-<h3><a name="II.IV" id="II.IV">IV</a></h3>
+
+<h3 class="nobreak"><a name="II.IV" id="II.IV">IV</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4224,13 +4260,15 @@ true Brotherhood.</p>
 <p>"This is the fourth lesson."</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_112" id="Page_112" href="#Page_112">[112]</a></span></p>
 
 
 
 
-<h3><a name="II.V" id="II.V">V</a></h3>
+
+<h3 class="nobreak"><a name="II.V" id="II.V">V</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4344,12 +4382,14 @@ brother's opportunity builds for eternity.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_116" id="Page_116" href="#Page_116">[116]</a></span></p>
 
 
 
 
-<h3><a name="II.VI" id="II.VI">VI</a></h3>
+<h3 class="nobreak"><a name="II.VI" id="II.VI">VI</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4449,12 +4489,14 @@ and the Great Purpose known of all men.</p>
 
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_119" id="Page_119" href="#Page_119">[119]</a></span></p>
 
 
 
-
-<h3><a name="II.VII" id="II.VII">VII</a></h3>
+<h3 class="nobreak"><a name="II.VII" id="II.VII">VII</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4527,12 +4569,14 @@ in the man himself.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_122" id="Page_122" href="#Page_122">[122]</a></span></p>
 
 
 
 
-<h3><a name="II.VIII" id="II.VIII">VIII</a></h3>
+<h3 class="nobreak"><a name="II.VIII" id="II.VIII">VIII</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4595,12 +4639,14 @@ purpose ye will serve forcefully through eternity.</p>
 
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_124" id="Page_124" href="#Page_124">[124]</a></span></p>
 
 
 
-
-<h3><a name="II.IX" id="II.IX">IX</a></h3>
+<h3 class="nobreak"><a name="II.IX" id="II.IX">IX</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4658,12 +4704,14 @@ service.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_126" id="Page_126" href="#Page_126">[126]</a></span></p>
 
 
 
 
-<h3><a name="II.X" id="II.X">X</a></h3>
+<h3 class="nobreak"><a name="II.X" id="II.X">X</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4721,12 +4769,14 @@ to all men Brotherhood.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_128" id="Page_128" href="#Page_128">[128]</a></span></p>
 
 
 
 
-<h3><a name="II.XI" id="II.XI">XI</a></h3>
+<h3 class="nobreak"><a name="II.XI" id="II.XI">XI</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4786,12 +4836,14 @@ and delays the Great Purpose.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_130" id="Page_130" href="#Page_130">[130]</a></span></p>
 
 
 
 
-<h3><a name="II.XII" id="II.XII">XII</a></h3>
+<h3 class="nobreak"><a name="II.XII" id="II.XII">XII</a></h3>
+</div>
 
 
 <p class="letterintro">
@@ -4827,12 +4879,14 @@ greater glories without end.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_131" id="Page_131" href="#Page_131">[131]</a></span></p>
 
 
 
 
-<h3><a name="NOTES" id="NOTES">NOTES</a></h3>
+<h3 class="nobreak"><a name="NOTES" id="NOTES">NOTES</a></h3>
+</div>
 
 
 <p>Asked to explain one phrase in the first
@@ -4908,7 +4962,9 @@ or intention as yet unexplained.</p>
 <hr class="chap" />
 
 
-<h2><a name="Part_III" id="Part_III">Part III</a></h2>
+<div class="chapter">
+<h2 class="nobreak"><a name="Part_III" id="Part_III">Part III</a></h2>
+</div>
 
 
 <p class="frontquote">
@@ -4927,11 +4983,13 @@ or intention as yet unexplained.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_137" id="Page_137" href="#Page_137">[137]</a></span></p>
 
 
 
-<h3><a name="III.I" id="III.I">I</a></h3>
+<h3 class="nobreak"><a name="III.I" id="III.I">I</a></h3>
+</div>
 
 
 <p class="drop-cap">Immediately after the first Lesson had
@@ -5313,13 +5371,15 @@ rapidly, with the same unhesitating flow that
 had characterized the first one.</p>
 
 <hr class="chap" />
-
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_149" id="Page_149" href="#Page_149">[149]</a></span></p>
 
 
 
 
-<h3><a name="III.II" id="III.II">II</a></h3>
+
+<h3 class="nobreak"><a name="III.II" id="III.II">II</a></h3>
+</div>
 
 
 <p>Meanwhile, happy letters were coming almost
@@ -5877,12 +5937,14 @@ see the others."</p>
 
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_166" id="Page_166" href="#Page_166">[166]</a></span></p>
 
 
 
-
-<h3><a name="III.III" id="III.III">III</a></h3>
+<h3 class="nobreak"><a name="III.III" id="III.III">III</a></h3>
+</div>
 
 
 <p>Like the rest of the family, Mrs. Wylie
@@ -6267,12 +6329,14 @@ our keen desire to purposize the world."</p>
 
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_178" id="Page_178" href="#Page_178">[178]</a></span></p>
 
 
 
-
-<h3><a name="III.IV" id="III.IV">IV</a></h3>
+<h3 class="nobreak"><a name="III.IV" id="III.IV">IV</a></h3>
+</div>
 
 
 <p>"What place have the unfit on your plane?"
@@ -6581,12 +6645,14 @@ The water's fine!"</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_188" id="Page_188" href="#Page_188">[188]</a></span></p>
 
 
 
 
-<h3><a name="III.V" id="III.V">V</a></h3>
+<h3 class="nobreak"><a name="III.V" id="III.V">V</a></h3>
+</div>
 
 
 <p>As has been said, our invisible friends have
@@ -6820,12 +6886,14 @@ final and decisive defeat of Germany."</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_195" id="Page_195" href="#Page_195">[195]</a></span></p>
 
 
 
 
-<h3><a name="III.VI" id="III.VI">VI</a></h3>
+<h3 class="nobreak"><a name="III.VI" id="III.VI">VI</a></h3>
+</div>
 
 
 <p>The actual existence of intelligent, invisible
@@ -7454,12 +7522,14 @@ defeat them.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_213" id="Page_213" href="#Page_213">[213]</a></span></p>
 
 
 
 
-<h3><a name="III.VII" id="III.VII">VII</a></h3>
+<h3 class="nobreak"><a name="III.VII" id="III.VII">VII</a></h3>
+</div>
 
 
 <p>Before beginning the Gaylord interviews
@@ -7944,12 +8014,14 @@ night. <span class="smcap">Frederick.</span>"</p>
 
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_228" id="Page_228" href="#Page_228">[228]</a></span></p>
 
 
 
-
-<h3><a name="III.VIII" id="III.VIII">VIII</a></h3>
+<h3 class="nobreak"><a name="III.VIII" id="III.VIII">VIII</a></h3>
+</div>
 
 
 <p>The next day, that grandfather for whom
@@ -8265,12 +8337,14 @@ and knowledge of you and your love.</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_238" id="Page_238" href="#Page_238">[238]</a></span></p>
 
 
 
 
-<h3><a name="III.IX" id="III.IX">IX</a></h3>
+<h3 class="nobreak"><a name="III.IX" id="III.IX">IX</a></h3>
+</div>
 
 
 <p>"I am with all of you as I never could be
@@ -8831,11 +8905,13 @@ should have been more strongly emphasized. They were all
 written with extraordinary rapidity and firmness.</p></div>
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_255" id="Page_255" href="#Page_255">[255]</a></span></p>
 
 
-
-<h3><a name="III.X" id="III.X">X</a></h3>
+<h3 class="nobreak"><a name="III.X" id="III.X">X</a></h3>
+</div>
 
 
 <p>The experience at L&mdash;&mdash;, while stimulating,
@@ -9526,12 +9602,14 @@ fresh mischief themselves."</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_275" id="Page_275" href="#Page_275">[275]</a></span></p>
 
 
 
 
-<h3><a name="III.XI" id="III.XI">XI</a></h3>
+<h3 class="nobreak"><a name="III.XI" id="III.XI">XI</a></h3>
+</div>
 
 
 <p>On the evening of his arrival, May 7th, Mr.
@@ -9916,12 +9994,14 @@ and devouring sea."</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_287" id="Page_287" href="#Page_287">[287]</a></span></p>
 
 
 
 
-<h3><a name="III.XII" id="III.XII">XII</a></h3>
+<h3 class="nobreak"><a name="III.XII" id="III.XII">XII</a></h3>
+</div>
 
 
 <p>One day, about the middle of May, discussing
@@ -10190,12 +10270,14 @@ sense."</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_296" id="Page_296" href="#Page_296">[296]</a></span></p>
 
 
 
 
-<h3><a name="III.XIII" id="III.XIII">XIII</a></h3>
+<h3 class="nobreak"><a name="III.XIII" id="III.XIII">XIII</a></h3>
+</div>
 
 
 <p>Talking about the Lessons one day, Mr.
@@ -10355,12 +10437,14 @@ this was signed: "William James."</p>
 
 <hr class="chap" />
 
+
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_301" id="Page_301" href="#Page_301">[301]</a></span></p>
 
 
 
-
-<h3><a name="III.XIV" id="III.XIV">XIV</a></h3>
+<h3 class="nobreak"><a name="III.XIV" id="III.XIV">XIV</a></h3>
+</div>
 
 
 <p>Of the messages that may be quoted, there
@@ -10727,12 +10811,14 @@ the freer and fuller way."</p>
 
 <hr class="chap" />
 
+<div class="chapter">
 <p><span class="pagenum"><a name="Page_313" id="Page_313" href="#Page_313">[313]</a></span></p>
 
 
 
 
-<h3><a name="III.XV" id="III.XV">XV</a></h3>
+<h3 class="nobreak"><a name="III.XV" id="III.XV">XV</a></h3>
+</div>
 
 
 <p>"A thought that will occur to many persons
